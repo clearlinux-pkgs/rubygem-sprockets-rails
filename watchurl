@@ -1,0 +1,3 @@
+# rubygem-rails requires version (>=0)
+# check: https://rubygems.org/gems/rails/versions/4.2.1
+wathcurl=https://rubygems.org/gems/sprockets-rails/versions/([\d\.]*)
