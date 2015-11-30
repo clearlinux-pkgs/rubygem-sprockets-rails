@@ -1,3 +1,4 @@
-# rubygem-rails requires version (>=0)
-# check: https://rubygems.org/gems/rails/versions/4.2.1
-wathcurl=https://rubygems.org/gems/sprockets-rails/versions/([\d\.]*)
+# File auto-generated with 'Watchfile generator'
+# 2015-11-27 22:32:26.821662
+# {'>=0', '>=2.0', '<4.0'}
+https://rubygems.org/gems/sprockets-rails/versions/([0-3]\.[0-9]{1,2}(\.[0-9a-zA-Z]+)?)
