@@ -4,7 +4,7 @@
 #
 Name     : rubygem-sprockets-rails
 Version  : 2.3.3
-Release  : 8
+Release  : 9
 URL      : https://rubygems.org/downloads/sprockets-rails-2.3.3.gem
 Source0  : https://rubygems.org/downloads/sprockets-rails-2.3.3.gem
 Summary  : No detailed summary available
@@ -53,85 +53,14 @@ fi
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/sprockets-rails-2.3.3.gem
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Rails/Application/Configuration/cdesc-Configuration.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Rails/Application/assets-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Rails/Application/assets_manifest-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Rails/Application/cdesc-Application.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Rails/Engine/cdesc-Engine.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Rails/cdesc-Rails.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/AbsoluteAssetPathError/cdesc-AbsoluteAssetPathError.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/AbsoluteAssetPathError/new-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/ActionView/Helpers/cdesc-Helpers.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/ActionView/cdesc-ActionView.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/AssetFilteredError/cdesc-AssetFilteredError.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/AssetFilteredError/new-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/asset_digest-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/asset_digest_path-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/asset_needs_precompile%3f-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/asset_path-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/assets-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/assets-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/assets_manifest-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/cdesc-Helper.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/check_dependencies%21-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/check_errors_for-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/compute_asset_path-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/extended-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/included-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/javascript_include_tag-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/lookup_asset_for_path-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/path_to_asset-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/precompile-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/precompile-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/raise_runtime_errors-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/raise_runtime_errors-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/request_debug_assets%3f-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Helper/stylesheet_link_tag-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/LegacyAssetTagHelper/cdesc-LegacyAssetTagHelper.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/LegacyAssetTagHelper/javascript_include_tag-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/LegacyAssetTagHelper/stylesheet_link_tag-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/LegacyAssetUrlHelper/asset_path-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/LegacyAssetUrlHelper/asset_url-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/LegacyAssetUrlHelper/audio_path-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/LegacyAssetUrlHelper/cdesc-LegacyAssetUrlHelper.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/LegacyAssetUrlHelper/compute_asset_extname-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/LegacyAssetUrlHelper/compute_asset_host-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/LegacyAssetUrlHelper/compute_asset_path-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/LegacyAssetUrlHelper/font_path-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/LegacyAssetUrlHelper/image_path-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/LegacyAssetUrlHelper/javascript_path-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/LegacyAssetUrlHelper/path_to_asset-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/LegacyAssetUrlHelper/path_to_audio-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/LegacyAssetUrlHelper/path_to_font-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/LegacyAssetUrlHelper/path_to_image-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/LegacyAssetUrlHelper/path_to_javascript-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/LegacyAssetUrlHelper/path_to_stylesheet-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/LegacyAssetUrlHelper/path_to_video-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/LegacyAssetUrlHelper/stylesheet_path-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/LegacyAssetUrlHelper/video_path-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Task/app-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Task/assets-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Task/cache_path-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Task/cdesc-Task.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Task/define-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Task/environment-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Task/manifest-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Task/new-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/Task/output-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Rails/cdesc-Rails.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Railtie/OrderedOptions/cdesc-OrderedOptions.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Railtie/OrderedOptions/configure-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/Railtie/cdesc-Railtie.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/Sprockets/cdesc-Sprockets.ri
-/usr/lib64/ruby/gems/2.2.0/doc/sprockets-rails-2.3.3/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/gems/sprockets-rails-2.3.3/LICENSE
-/usr/lib64/ruby/gems/2.2.0/gems/sprockets-rails-2.3.3/README.md
-/usr/lib64/ruby/gems/2.2.0/gems/sprockets-rails-2.3.3/lib/sprockets/rails.rb
-/usr/lib64/ruby/gems/2.2.0/gems/sprockets-rails-2.3.3/lib/sprockets/rails/helper.rb
-/usr/lib64/ruby/gems/2.2.0/gems/sprockets-rails-2.3.3/lib/sprockets/rails/legacy_asset_tag_helper.rb
-/usr/lib64/ruby/gems/2.2.0/gems/sprockets-rails-2.3.3/lib/sprockets/rails/legacy_asset_url_helper.rb
-/usr/lib64/ruby/gems/2.2.0/gems/sprockets-rails-2.3.3/lib/sprockets/rails/task.rb
-/usr/lib64/ruby/gems/2.2.0/gems/sprockets-rails-2.3.3/lib/sprockets/rails/version.rb
-/usr/lib64/ruby/gems/2.2.0/gems/sprockets-rails-2.3.3/lib/sprockets/railtie.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/sprockets-rails-2.3.3.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/sprockets-rails-2.3.3.gem
+/usr/lib64/ruby/gems/2.3.0/gems/sprockets-rails-2.3.3/LICENSE
+/usr/lib64/ruby/gems/2.3.0/gems/sprockets-rails-2.3.3/README.md
+/usr/lib64/ruby/gems/2.3.0/gems/sprockets-rails-2.3.3/lib/sprockets/rails.rb
+/usr/lib64/ruby/gems/2.3.0/gems/sprockets-rails-2.3.3/lib/sprockets/rails/helper.rb
+/usr/lib64/ruby/gems/2.3.0/gems/sprockets-rails-2.3.3/lib/sprockets/rails/legacy_asset_tag_helper.rb
+/usr/lib64/ruby/gems/2.3.0/gems/sprockets-rails-2.3.3/lib/sprockets/rails/legacy_asset_url_helper.rb
+/usr/lib64/ruby/gems/2.3.0/gems/sprockets-rails-2.3.3/lib/sprockets/rails/task.rb
+/usr/lib64/ruby/gems/2.3.0/gems/sprockets-rails-2.3.3/lib/sprockets/rails/version.rb
+/usr/lib64/ruby/gems/2.3.0/gems/sprockets-rails-2.3.3/lib/sprockets/railtie.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/sprockets-rails-2.3.3.gemspec
