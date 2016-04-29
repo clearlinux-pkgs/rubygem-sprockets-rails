@@ -4,7 +4,7 @@
 #
 Name     : rubygem-sprockets-rails
 Version  : 2.3.3
-Release  : 9
+Release  : 10
 URL      : https://rubygems.org/downloads/sprockets-rails-2.3.3.gem
 Source0  : https://rubygems.org/downloads/sprockets-rails-2.3.3.gem
 Summary  : No detailed summary available
