@@ -1,4 +1,4 @@
 # File auto-generated with 'Watchfile generator'
-# 2015-11-27 22:32:26.821662
-# {'>=0', '>=2.0', '<4.0'}
-https://rubygems.org/gems/sprockets-rails/versions/([0-3]\.[0-9]{1,2}(\.[0-9a-zA-Z]+)?)
+# 2016-05-06 18:22:16.306235
+# {'>=2.0', '>=0', '<4.0'}
+watchurl=https://rubygems.org/gems/sprockets-rails/versions/([0-3]\.[0-9]{1,2}(?:\.[0-9a-zA-Z]+)*)
